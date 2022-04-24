@@ -1,4 +1,4 @@
-# pyspark_sentiment
+# pyspark_sentiment_Analysis
 Sentiment Analysis on Financial News Data (200k news headlines) using PySpark
 
 **Objective & Process:** The aim of this project is to accuratly identify sentiments in news titles that stem from financial news. Therefore, an annotated corpus of 200,000 headlines is used to train a variaty of classification model types using the PySpark Library. Beyond that, different approaches of text pre-processing and feature generation are explored to maximize performance. The process is designed as follows:
